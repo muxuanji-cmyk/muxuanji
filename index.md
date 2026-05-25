@@ -1,6 +1,8 @@
 ---
 layout: index
 title: Home
+objects_heading: "Shared Moments"
+objects_intro: "These photographs capture everyday moments of connection, intimacy, and belonging around UCSB and Santa Barbara. Each image reflects how ordinary interactions can create emotional closeness and community."
 ---
 
 {% assign lang = site.data.languages[site.telar_language] | default: site.data.languages.en %}

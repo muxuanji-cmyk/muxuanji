@@ -1,6 +1,8 @@
-order,story_id,title,subtitle,byline,private
-orden,id_historia,titulo,subtitulo,firma,privada
-#,# Must match the tab name exactly. Use lowercase letters and hyphens (e.g. allegorical-woman),Story title,Optional subtitle,Optional attribution (supports markdown),"If ""yes"", then users will need the key you set in _config.yml to access this story."
-#,# Debe coincidir con el nombre de la pestaña exactamente. Usa letras minúsculas y guiones (p. ej. mujer-alegorica),Título de la historia,Subtítulo opcional,Atribución opcional (admite markdown),"Si ""sí"", los usuarios deberán utilizar la clave que fijes en _config.yml"
-1,blank_template,replace me with your title,,,FALSE
-2,plantilla_en_blanco,reemplázame con tu título,,,FALSE
+order,story_id,title,subtitle,byline,private,show_sections
+orden,id_historia,titulo,subtitulo,firma,privada,mostrar_secciones
+0,moments-of-belonging-wnhj,Introduction,"Exploring how everyday interactions create feelings of love, comfort, and belonging",By Muxuan Ji,,
+1,walking-together-yy8x,Walking Together,Emotional intimacy in everyday campus life,By Muxuan Ji,,
+2,between-the-waves-cih9,Between the Waves,"Friendship, vulnerability, and emotional support beside the ocean",By Muxuan Ji,,
+3,evening-tide-ju6l,Evening Tide,Companionship and emotional comfort within shared moments,By Muxuan Ji,,
+4,sunset-silhouettes-ua2v,Sunset Silhouettes,Romantic intimacy and emotional absorption during sunset,By Muxuan Ji,,
+5,conclusion-dli4,Conclusion,,,,
